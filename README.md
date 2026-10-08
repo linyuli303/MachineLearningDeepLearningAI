@@ -1,10 +1,9 @@
 This is a repository from a data enthusiast.
 
-Main contents:
+**Main contents:**
+- Course notes, links, and resources related to Data, ML, DL, and AI topics
+- Python code templates for specific tasks
+- Project links
 
-Course notes, links, and resources related to Data, ML, DL, and AI topics
-Python code templates for specific tasks
-Project links
-
-Also check out:
-My Databricks project repo: https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main
+**My Databricks project repo:**
+https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main
