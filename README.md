@@ -11,4 +11,4 @@ This is a repository from a data enthusiast / practitioner.
 
 **Preview:**
 
-<img width="680" height="385" alt="image" src="https://github.com/user-attachments/assets/c98fb1a2-2973-4d5c-b0f5-1e6c63036c28" />
+<img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/ee7538af-defe-439a-8ff6-7743a20c6b30" />
