@@ -7,7 +7,7 @@ This is a repository from a data enthusiast / practitioner.
 
 **My Databricks project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks project with NYC Taxi data</a>
 
-**Continuous learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of completion · Udemy & Coursera</a>
+**Continuous learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
 **You can download my resume in Power BI format:** <a href="https://raw.githubusercontent.com/linyuli303/MachineLearningDeepLearningAI/main/WhoIsYuli/Yuli.pbix">PowerBI Resume Download</a>
 
