@@ -5,7 +5,7 @@ This is a repository from a data enthusiast / practitioner.
 - Python code templates for specific tasks
 - Project links
 
-**My Databricks project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks project with NYC Taxi data</a>
+**My Databricks project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks Project with NYC Taxi Data</a>
 
 **Continuous learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
