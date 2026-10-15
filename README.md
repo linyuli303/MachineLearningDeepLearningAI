@@ -145,6 +145,6 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
   — Aurélien Géron
 
-  ### Learning Notes
+### Learning Notes
 - [Machine Learning](./LearningNotes/machine_learning.ipynb)
 - [Deep Learning](./LearningNotes/deep_learning.ipynb)
