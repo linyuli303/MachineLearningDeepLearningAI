@@ -1,14 +1,14 @@
 This is a repository from a data enthusiast / practitioner.
 
-**My Databricks project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks Project with NYC Taxi Data</a>
+**My Databricks Project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks Project with NYC Taxi Data</a>
 
-**Continuous learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
+**Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
-**You can download my resume in Power BI format:** <a href="https://raw.githubusercontent.com/linyuli303/MachineLearningDeepLearningAI/main/WhoIsYuli/Yuli.pbix">PowerBI Resume Download</a>
+**Download my Power BI Resume:** <a href="https://raw.githubusercontent.com/linyuli303/MachineLearningDeepLearningAI/main/WhoIsYuli/Yuli.pbix">PowerBI Resume Download</a>
 
 **Preview:**
 
-<img width="692" height="389" alt="image" src="https://github.com/user-attachments/assets/ee7538af-defe-439a-8ff6-7743a20c6b30" />
+<img width="560" height="300" alt="image" src="https://github.com/user-attachments/assets/ee7538af-defe-439a-8ff6-7743a20c6b30" />
 
 
 ## Code Templates
@@ -108,6 +108,8 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Databricks Free Edition](https://signup.databricks.com/?dbx_source=docs)
 - [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai)
 - [Databricks vs. Snowflake vs. Fabric · Video](https://www.youtube.com/watch?v=yPGEQ8vtuOw&t=52s)
+- [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
+- [dbt Packages](https://hub.getdbt.com/)
 
 ### Machine Learning & Deep Learning
 
