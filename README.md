@@ -10,7 +10,6 @@ This is a repository from a data enthusiast / practitioner.
 
 <img width="560" height="300" alt="image" src="https://github.com/user-attachments/assets/ee7538af-defe-439a-8ff6-7743a20c6b30" />
 
-
 ## Code Templates
 
 A collection of learning notebooks and reusable examples covering data preprocessing, ML, DL, NLP, and practical utilities.
@@ -145,3 +144,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
   — Gareth James and co-authors
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
   — Aurélien Géron
+
+  ### Learning Notes
+- [Machine Learning](./LearningNotes/machine_learning.ipynb)
+- [Deep Learning](./LearningNotes/deep_learning.ipynb)
