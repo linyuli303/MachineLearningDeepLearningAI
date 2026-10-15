@@ -108,6 +108,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Databricks Free Edition](https://signup.databricks.com/?dbx_source=docs)
 - [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai)
 - [Databricks vs. Snowflake vs. Fabric · Video](https://www.youtube.com/watch?v=yPGEQ8vtuOw&t=52s)
+- [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
 
 ### Machine Learning & Deep Learning
 
