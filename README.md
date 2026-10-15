@@ -1,6 +1,8 @@
 This is a repository from a data enthusiast / practitioner.
 
-**My Databricks Project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks Project with NYC Taxi Data</a>
+**My Databricks Project repo:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks · NYC Taxi Data</a>
+
+**dbt on Databricks:** <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt core</a>
 
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
