@@ -81,6 +81,8 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
   — Sentiment analysis
 - [NLP with Spark](./CodeTemplate/NLP/nlp_with_spark.ipynb)
   — Spam detection
+- [NLP with Transformer](./CodeTemplate/NLP/nlp_with_sentence_transformers.ipynb)
+  — Clustering / Semantic Search
 
 #### Deep Learning
 
