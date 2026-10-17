@@ -44,6 +44,8 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 #### Classification
 
 - [Logistic Regression](./CodeTemplate/Classification/logistic_regression.ipynb)
+- [Logistic Regression · Spark](./CodeTemplate/Classification/logistic_regression_with_spark.ipynb) 
+  — Titanic Survive, Customer Churn
 - [K-Nearest Neighbors (K-NN)](./CodeTemplate/Classification/k_nearest_neighbors.ipynb)
 - [Support Vector Machine (SVM)](./CodeTemplate/Classification/support_vector_machine.ipynb)
 - [Kernel SVM](./CodeTemplate/Classification/kernel_svm.ipynb)
@@ -54,7 +56,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 #### Clustering
 
 - [K-Means Clustering](./CodeTemplate/Clustering/k_means_clustering.ipynb)
-  — e.g.: customer segmentation
+  — Customer Segmentation
 - [Hierarchical Clustering](./CodeTemplate/Clustering/hierarchical_clustering.ipynb)
 
 #### Association Rule Learning
@@ -77,17 +79,17 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 
 #### Natural Language Processing
 
-- [NLP with NLTK](./CodeTemplate/NLP/natural_language_processing.ipynb)
-  — Sentiment analysis
-- [NLP with Spark](./CodeTemplate/NLP/nlp_with_spark.ipynb)
-  — Spam detection
-- [NLP with Transformer](./CodeTemplate/NLP/nlp_with_sentence_transformers.ipynb)
+- [NLP · NLTK](./CodeTemplate/NLP/natural_language_processing.ipynb)
+  — Sentiment Analysis
+- [NLP · Spark](./CodeTemplate/NLP/nlp_with_spark.ipynb)
+  — Spam Detection
+- [NLP · Transformer](./CodeTemplate/NLP/nlp_with_sentence_transformers.ipynb)
   — Clustering / Semantic Search
 
 #### Deep Learning
 
 - [Artificial Neural Networks (ANN)](./CodeTemplate/DeepLearning/artificial_neural_network.ipynb)
-  — Regression and classification, e.g. customer churn prediction
+  — Regression and Classification, e.g. Customer Churn prediction
 - [Convolutional Neural Networks (CNN)](./CodeTemplate/DeepLearning/convolutional_neural_network.ipynb)
   — Computer vision
 - [Recurrent Neural Networks (RNN)](./CodeTemplate/DeepLearning/rnn.ipynb)
