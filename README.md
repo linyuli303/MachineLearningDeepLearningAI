@@ -54,6 +54,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Naive Bayes](./CodeTemplate/Classification/naive_bayes.ipynb)
 - [Decision Tree Classification](./CodeTemplate/Classification/decision_tree_classification.ipynb)
 - [Random Forest Classification](./CodeTemplate/Classification/random_forest_classification.ipynb)
+- [Random Forest · Fearure Importance · Spark](./CodeTemplate/Classification/random_forest_featureimportance_spark.ipynb)
 
 #### Clustering
 
