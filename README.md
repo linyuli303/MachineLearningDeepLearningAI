@@ -117,6 +117,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Databricks vs. Snowflake vs. Fabric · Video](https://www.youtube.com/watch?v=yPGEQ8vtuOw&t=52s)
 - [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
 - [dbt Packages](https://hub.getdbt.com/)
+- [Microsoft Fabric SQL Wiki](https://github.com/malvik01/Fabric-Data-Warehousing-SQL-Code/wiki)
 
 ### Machine Learning & Deep Learning
 
