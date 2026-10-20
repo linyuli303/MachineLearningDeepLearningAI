@@ -12,7 +12,7 @@ This is a repository from a data enthusiast / practitioner.
 
 **Preview:**
 
-<img width="450" height="240" alt="image" src="https://github.com/user-attachments/assets/ee7538af-defe-439a-8ff6-7743a20c6b30" />
+<img width="450" height="240" alt="image" src="https://github.com/user-attachments/assets/ed998a9b-4cbe-4e38-90ab-21d59ff21e50" />
 
 ## Code Templates
 
