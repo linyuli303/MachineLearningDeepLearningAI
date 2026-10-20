@@ -101,12 +101,12 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 ### Python Utilities, SQL & DAX
 
 - [PySpark](./CodeTemplate/OtherUtils/pyspark.ipynb)
+- [Lakehouse Medallion Architecture](./CodeTemplate/OtherUtils/medallion_architecture_implementation.ipynb)
 - [Faker · Random Data Generation](./CodeTemplate/OtherUtils/faker_eandom_data_generation.ipynb)
 - [PyPDF · Working with PDF Files](./CodeTemplate/OtherUtils/PyPDF.ipynb)
 - [nbformat · Merging Notebooks](./CodeTemplate/OtherUtils/merge_notebooks.ipynb)
 - [MySQL Syntax Reference](./CodeTemplate/OtherUtils/MySQL.pdf)
 - [DAX Functions Reference](./CodeTemplate/OtherUtils/DAXFunctions.pdf)
-
 
 ## Resources & References
 
