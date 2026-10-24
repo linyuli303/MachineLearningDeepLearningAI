@@ -46,7 +46,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 #### Classification
 
 - [Logistic Regression](./CodeTemplate/Classification/logistic_regression.ipynb)
-- [Logistic Regression · Spark](./CodeTemplate/Classification/logistic_regression_with_spark.ipynb) 
+- [Logistic Regression · Spark](./CodeTemplate/Classification/logistic_regression_with_spark.ipynb)
   — Titanic Survive, Customer Churn
 - [K-Nearest Neighbors (K-NN)](./CodeTemplate/Classification/k_nearest_neighbors.ipynb)
 - [Support Vector Machine (SVM)](./CodeTemplate/Classification/support_vector_machine.ipynb)
@@ -64,7 +64,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 
 #### Association Rule Learning
 
-"people who bought also bought ..." 
+"people who bought also bought ..."
 
 - [Apriori](./CodeTemplate/AssociationRuleLearning/apriori.ipynb)
   — [Course slides: pages 332–350](https://online.fliphtml5.com/grdgl/hfrm/#p=332)
@@ -128,10 +128,11 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Apache Spark · Classification & Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html)
 - [Keras · Code Examples](https://keras.io/examples/)
 
-### Generative AI
+### Generative AI / Transformer
 
 - [Hugging Face](https://huggingface.co/)
 - [LangChain](https://www.langchain.com/)
+- [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
 
 ### Python Automation
 
@@ -156,5 +157,6 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
   — Aurélien Géron
 
 ### Learning Notes
+
 - [Machine Learning](./LearningNotes/machine_learning.ipynb)
 - [Deep Learning](./LearningNotes/deep_learning.ipynb)
