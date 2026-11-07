@@ -134,7 +134,9 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 
 - [Hugging Face](https://huggingface.co/)
 - [LangChain](https://www.langchain.com/)
+- [LangChain Prompt Template](https://smith.langchain.com/hub/)
 - [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
+
 
 ### Python Automation
 
