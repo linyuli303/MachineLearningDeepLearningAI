@@ -130,12 +130,14 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Apache Spark · Classification & Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html)
 - [Keras · Code Examples](https://keras.io/examples/)
 
-### Generative AI / Transformer
+### Generative AI / Transformer / LLM
 
 - [Hugging Face](https://huggingface.co/)
 - [LangChain](https://www.langchain.com/)
-- [LangChain Prompt Template](https://smith.langchain.com/hub/)
 - [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [LangChain Prompt Template](https://smith.langchain.com/hub/)
+
 
 
 ### Python Automation
