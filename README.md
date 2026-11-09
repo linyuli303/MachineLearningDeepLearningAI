@@ -8,7 +8,7 @@ This is a repository from a data enthusiast / practitioner.
 
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
-**Learning in progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
+**Learning in Progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
 
 **Tableau Public:** <a href="https://public.tableau.com/app/profile/yuli.lin/vizzes#!/">Tableau Viz</a>
 
