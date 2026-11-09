@@ -119,7 +119,6 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Spark SQL · PySpark API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
 - [Databricks Free Edition](https://signup.databricks.com/?dbx_source=docs)
 - [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai)
-- [Databricks vs. Snowflake vs. Fabric · Video](https://www.youtube.com/watch?v=yPGEQ8vtuOw&t=52s)
 - [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
 - [dbt Packages](https://hub.getdbt.com/)
 - [Microsoft Fabric SQL Wiki](https://github.com/malvik01/Fabric-Data-Warehousing-SQL-Code/wiki)
