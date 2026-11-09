@@ -152,6 +152,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 
 - [Adobe Color · Extract a Palette from an Image](https://color.adobe.com/create/image)
 - [Japanese Color Atlas](https://japanesecoloratlas.com/en/palettes)
+- [Nippon Colors](https://nipponcolors.com/)
 - [D3 · Visualization Gallery](https://observablehq.com/@d3/gallery)
 - [Streamlit](https://streamlit.io/)
 
