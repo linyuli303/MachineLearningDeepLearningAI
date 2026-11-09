@@ -4,6 +4,8 @@ This is a repository from a data enthusiast / practitioner.
 
 **dbt on Databricks:** <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt core</a>
 
+**AI at Work: Auditing My Python Pipeline** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Data Engineering Audit Log</a>
+
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
 **Learning in progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
