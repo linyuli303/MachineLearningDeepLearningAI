@@ -4,7 +4,7 @@ This is a repository from a data enthusiast / practitioner.
 
 **dbt on Databricks:** <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt core</a>
 
-**AI at Work: Auditing My Python Pipeline** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Data Engineering Audit Log</a>
+**AI at Work:** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Auditing My Python Pipeline</a> & <a href="https://github.com/linyuli303/ColumnLineageExplorer">Column Lineage Explorer</a> 
 
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
