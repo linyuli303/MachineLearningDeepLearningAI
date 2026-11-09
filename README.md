@@ -138,8 +138,6 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [LangChain Prompt Template](https://smith.langchain.com/hub/)
 
-
-
 ### Python Automation
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -152,6 +150,7 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 ### Visualization & Apps
 
 - [Adobe Color · Extract a Palette from an Image](https://color.adobe.com/create/image)
+- [Japanese Color Atlas](https://japanesecoloratlas.com/en/palettes)
 - [D3 · Visualization Gallery](https://observablehq.com/@d3/gallery)
 - [Streamlit](https://streamlit.io/)
 
