@@ -4,7 +4,11 @@ This is a repository from a data enthusiast / practitioner.
 
 **dbt on Databricks:** <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt core</a>
 
+**How I Use AI for Data Work:** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Auditing My Python Pipeline</a> & <a href="https://github.com/linyuli303/ColumnLineageExplorer">Column Lineage Explorer</a> 
+
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
+
+**Learning in Progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
 
 **Tableau Public:** <a href="https://public.tableau.com/app/profile/yuli.lin/vizzes#!/">Tableau Viz</a>
 
@@ -115,7 +119,6 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Spark SQL · PySpark API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
 - [Databricks Free Edition](https://signup.databricks.com/?dbx_source=docs)
 - [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai)
-- [Databricks vs. Snowflake vs. Fabric · Video](https://www.youtube.com/watch?v=yPGEQ8vtuOw&t=52s)
 - [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
 - [dbt Packages](https://hub.getdbt.com/)
 - [Microsoft Fabric SQL Wiki](https://github.com/malvik01/Fabric-Data-Warehousing-SQL-Code/wiki)
@@ -128,11 +131,13 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 - [Apache Spark · Classification & Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html)
 - [Keras · Code Examples](https://keras.io/examples/)
 
-### Generative AI / Transformer
+### Generative AI / Transformer / LLM
 
 - [Hugging Face](https://huggingface.co/)
 - [LangChain](https://www.langchain.com/)
 - [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [LangChain Prompt Template](https://smith.langchain.com/hub/)
 
 ### Python Automation
 
@@ -146,6 +151,8 @@ Techniques for feature extraction, dimensionality reduction, and visualization.
 ### Visualization & Apps
 
 - [Adobe Color · Extract a Palette from an Image](https://color.adobe.com/create/image)
+- [Japanese Color Atlas](https://japanesecoloratlas.com/en/palettes)
+- [Nippon Colors](https://nipponcolors.com/)
 - [D3 · Visualization Gallery](https://observablehq.com/@d3/gallery)
 - [Streamlit](https://streamlit.io/)
 
