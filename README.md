@@ -6,7 +6,7 @@ This is a repository from a data enthusiast / practitioner.
 
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
 
-**Learning Notes:** <a href="https://linyuli303.github.io/MachineLearningDeepLearningAI/yuli_learning_notes.html">Machine Learning · Deep Learning</a>
+**Learning Notes:** <a href="https://linyuli303.github.io/MachineLearningDeepLearningAI/yuli_learning_notes_cherry_blossom_theme.html">Machine Learning · Deep Learning</a>
 
 **Learning in Progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
 
