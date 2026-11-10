@@ -1,22 +1,17 @@
-This is a repository from a data enthusiast / practitioner.
+A collection of projects, learning notes, and experiments from a data enthusiast and practitioner.
 
-**How I Use AI for Data Work:** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Auditing My Python Pipeline</a> & <a href="https://github.com/linyuli303/ColumnLineageExplorer">Column Lineage Explorer</a> 
+| Category | Projects & Resources |
+|---|---|
+| **How I Use AI for Data Work** | [Auditing My Python Pipeline](https://github.com/linyuli303/DataEngineeringAuditLog/tree/main) · [Column Lineage Explorer](https://github.com/linyuli303/ColumnLineageExplorer) |
+| **How I Use AI in Everyday Life** | [MyTube — Your channels, your feed](https://github.com/linyuli303/MyTube) |
+| **Databricks Projects** | [NYC Taxi Data](https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main) · [dbt on Databricks](https://github.com/linyuli303/dbt_core_databricks_demo) |
+| **Continuous Learning** | [Certificates of Completion — Udemy & Coursera](https://linyuli303.github.io/certifications/) |
+| **Learning Notes** | [Machine Learning · Deep Learning](https://linyuli303.github.io/MachineLearningDeepLearningAI/yuli_learning_notes_cherry_blossom_theme.html) |
+| **Learning in Progress** | [Agentic AI & MCP](https://udemy.com/course/langchain/) · [Snowflake](https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/) |
+| **Tableau Public** | [Tableau Visualizations](https://public.tableau.com/app/profile/yuli.lin/vizzes#!/) |
+| **Interactive Resume** | [Download My Power BI Resume (.pbix)](https://raw.githubusercontent.com/linyuli303/MachineLearningDeepLearningAI/main/WhoIsYuli/Yuli.pbix) |
 
-**How I Use AI in Everyday Life** <a href="https://github.com/linyuli303/MyTube">MyTube — Your channels, your feed</a>
-
-**Databricks Project:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks · NYC Taxi Data</a> & <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt on Databricks</a>
-
-**Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
-
-**Learning Notes:** <a href="https://linyuli303.github.io/MachineLearningDeepLearningAI/yuli_learning_notes_cherry_blossom_theme.html">Machine Learning · Deep Learning</a>
-
-**Learning in Progress:** <a href="https://udemy.com/course/langchain/">Agentic AI & MCP</a> & <a href="https://udemy.com/course/ultimate-snowpro-core-certification-course-exam/">Snowflake</a>
-
-**Tableau Public:** <a href="https://public.tableau.com/app/profile/yuli.lin/vizzes#!/">Tableau Viz</a>
-
-**Download my Power BI Resume:** <a href="https://raw.githubusercontent.com/linyuli303/MachineLearningDeepLearningAI/main/WhoIsYuli/Yuli.pbix">PowerBI Resume Download</a>
-
-**Preview:**
+**Preview**
 
 <img width="450" height="240" alt="image" src="https://github.com/user-attachments/assets/ed998a9b-4cbe-4e38-90ab-21d59ff21e50" />
 
