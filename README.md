@@ -2,6 +2,8 @@ This is a repository from a data enthusiast / practitioner.
 
 **How I Use AI for Data Work:** <a href="https://github.com/linyuli303/DataEngineeringAuditLog/tree/main">Auditing My Python Pipeline</a> & <a href="https://github.com/linyuli303/ColumnLineageExplorer">Column Lineage Explorer</a> 
 
+**How I Use AI in Everyday Life** <a href="https://github.com/linyuli303/MyTube">MyTube — Your channels, your feed</a>
+
 **Databricks Project:** <a href="https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main">Databricks · NYC Taxi Data</a> & <a href="https://github.com/linyuli303/dbt_core_databricks_demo">Databricks · dbt on Databricks</a>
 
 **Continuous Learning:** <a href="https://linyuli303.github.io/certifications/">Certificates of Completion · Udemy & Coursera</a>
