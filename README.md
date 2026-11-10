@@ -17,145 +17,138 @@ A collection of projects, learning notes, and experiments from a data enthusiast
 
 ## Code Templates
 
-A collection of learning notebooks and reusable examples covering data preprocessing, ML, DL, NLP, and practical utilities.
+Learning notebooks and reusable examples for data preparation, machine learning, deep learning, NLP, and practical data utilities.
 
-### Data Preprocessing & Dimensionality Reduction
+### Data Preparation & Dimensionality Reduction
 
-#### Data Preprocessing
-
-- [Data Preprocessing Tools](./CodeTemplate/data_preprocessing_tools.ipynb)
-
-#### Dimensionality Reduction
-
-Techniques for feature extraction, dimensionality reduction, and visualization.
-
-- [Principal Component Analysis (PCA)](./CodeTemplate/DimensionalityReduction/principal_component_analysis.ipynb)
-  — [Interactive explanation](https://setosa.io/ev/principal-component-analysis/)
-- [Linear Discriminant Analysis (LDA)](./CodeTemplate/DimensionalityReduction/linear_discriminant_analysis.ipynb)
-- [Kernel PCA](./CodeTemplate/DimensionalityReduction/kernel_pca.ipynb)
+| Topic | Notebook | Notes & References |
+|---|---|---|
+| Data Preprocessing | [Data Preprocessing Tools](./CodeTemplate/data_preprocessing_tools.ipynb) | Data preparation examples |
+| Principal Component Analysis | [PCA](./CodeTemplate/DimensionalityReduction/principal_component_analysis.ipynb) | [Interactive explanation](https://setosa.io/ev/principal-component-analysis/) |
+| Linear Discriminant Analysis | [LDA](./CodeTemplate/DimensionalityReduction/linear_discriminant_analysis.ipynb) | Dimensionality reduction |
+| Kernel PCA | [Kernel PCA](./CodeTemplate/DimensionalityReduction/kernel_pca.ipynb) | Nonlinear dimensionality reduction |
 
 ### Machine Learning
 
 #### Regression
 
-- [Multiple Linear Regression](./CodeTemplate/Regression/multiple_linear_regression.ipynb)
-- [Polynomial Regression](./CodeTemplate/Regression/polynomial_regression.ipynb)
-- [Support Vector Regression (SVR)](./CodeTemplate/Regression/support_vector_regression.ipynb)
-- [Decision Tree Regression](./CodeTemplate/Regression/decision_tree_regression.ipynb)
-- [Random Forest Regression](./CodeTemplate/Regression/random_forest_regression.ipynb)
+| Method | Notebook |
+|---|---|
+| Multiple Linear Regression | [Notebook](./CodeTemplate/Regression/multiple_linear_regression.ipynb) |
+| Polynomial Regression | [Notebook](./CodeTemplate/Regression/polynomial_regression.ipynb) |
+| Support Vector Regression | [Notebook](./CodeTemplate/Regression/support_vector_regression.ipynb) |
+| Decision Tree Regression | [Notebook](./CodeTemplate/Regression/decision_tree_regression.ipynb) |
+| Random Forest Regression | [Notebook](./CodeTemplate/Regression/random_forest_regression.ipynb) |
 
 #### Classification
 
-- [Logistic Regression](./CodeTemplate/Classification/logistic_regression.ipynb)
-- [Logistic Regression · Spark](./CodeTemplate/Classification/logistic_regression_with_spark.ipynb)
-  — Titanic Survive, Customer Churn
-- [K-Nearest Neighbors (K-NN)](./CodeTemplate/Classification/k_nearest_neighbors.ipynb)
-- [Support Vector Machine (SVM)](./CodeTemplate/Classification/support_vector_machine.ipynb)
-- [Kernel SVM](./CodeTemplate/Classification/kernel_svm.ipynb)
-- [Naive Bayes](./CodeTemplate/Classification/naive_bayes.ipynb)
-- [Decision Tree Classification](./CodeTemplate/Classification/decision_tree_classification.ipynb)
-- [Random Forest Classification](./CodeTemplate/Classification/random_forest_classification.ipynb)
-- [Random Forest · Fearure Importance · Spark](./CodeTemplate/Classification/random_forest_featureimportance_spark.ipynb)
+| Method | Notebook | Examples / Focus |
+|---|---|---|
+| Logistic Regression | [Notebook](./CodeTemplate/Classification/logistic_regression.ipynb) | |
+| Logistic Regression with Spark | [Notebook](./CodeTemplate/Classification/logistic_regression_with_spark.ipynb) | Titanic survival · Customer churn |
+| K-Nearest Neighbors | [Notebook](./CodeTemplate/Classification/k_nearest_neighbors.ipynb) | |
+| Support Vector Machine | [Notebook](./CodeTemplate/Classification/support_vector_machine.ipynb) | |
+| Kernel SVM | [Notebook](./CodeTemplate/Classification/kernel_svm.ipynb) | |
+| Naive Bayes | [Notebook](./CodeTemplate/Classification/naive_bayes.ipynb) | |
+| Decision Tree Classification | [Notebook](./CodeTemplate/Classification/decision_tree_classification.ipynb) | |
+| Random Forest Classification | [Notebook](./CodeTemplate/Classification/random_forest_classification.ipynb) | |
+| Random Forest with Spark | [Notebook](./CodeTemplate/Classification/random_forest_featureimportance_spark.ipynb) | Feature importance |
 
-#### Clustering
+#### Clustering & Association Rules
 
-- [K-Means Clustering](./CodeTemplate/Clustering/k_means_clustering.ipynb)
-  — Customer Segmentation
-- [Hierarchical Clustering](./CodeTemplate/Clustering/hierarchical_clustering.ipynb)
+| Topic | Notebook | Examples / References |
+|---|---|---|
+| K-Means Clustering | [Notebook](./CodeTemplate/Clustering/k_means_clustering.ipynb) | Customer segmentation |
+| Hierarchical Clustering | [Notebook](./CodeTemplate/Clustering/hierarchical_clustering.ipynb) | |
+| Apriori | [Notebook](./CodeTemplate/AssociationRuleLearning/apriori.ipynb) | Association rules · [Course slides, pp. 332–350](https://online.fliphtml5.com/grdgl/hfrm/#p=332) |
+| Eclat | [Notebook](./CodeTemplate/AssociationRuleLearning/eclat.ipynb) | Association rules |
 
-#### Association Rule Learning
+#### Model Evaluation, Selection & Boosting
 
-"people who bought also bought ..."
-
-- [Apriori](./CodeTemplate/AssociationRuleLearning/apriori.ipynb)
-  — [Course slides: pages 332–350](https://online.fliphtml5.com/grdgl/hfrm/#p=332)
-- [Eclat](./CodeTemplate/AssociationRuleLearning/eclat.ipynb)
-
-#### Model Selection & Boosting
-
-- [k-Fold Cross-Validation](./CodeTemplate/ModelSelection/k_fold_cross_validation.ipynb)
-- [Grid Search](./CodeTemplate/ModelSelection/grid_search.ipynb)
-  — Hyperparameter tuning with cross-validation
-  · [Documentation](https://scikit-learn.org/stable/modules/grid_search.html#grid-search)
-- [XGBoost](./CodeTemplate/xg_boost.ipynb)
+| Topic | Notebook | Notes & References |
+|---|---|---|
+| k-Fold Cross-Validation | [Notebook](./CodeTemplate/ModelSelection/k_fold_cross_validation.ipynb) | Model evaluation |
+| Grid Search | [Notebook](./CodeTemplate/ModelSelection/grid_search.ipynb) | Hyperparameter tuning with cross-validation · [Documentation](https://scikit-learn.org/stable/modules/grid_search.html#grid-search) |
+| XGBoost | [Notebook](./CodeTemplate/xg_boost.ipynb) | Gradient boosting |
 
 ### Natural Language Processing & Deep Learning
 
 #### Natural Language Processing
 
-- [NLP · NLTK](./CodeTemplate/NLP/natural_language_processing.ipynb)
-  — Sentiment Analysis
-- [NLP · Spark](./CodeTemplate/NLP/nlp_with_spark.ipynb)
-  — Spam Detection
-- [NLP · Transformer](./CodeTemplate/NLP/nlp_with_sentence_transformers.ipynb)
-  — Clustering / Semantic Search
+| Approach | Notebook | Examples / Focus |
+|---|---|---|
+| NLP with NLTK | [Notebook](./CodeTemplate/NLP/natural_language_processing.ipynb) | Sentiment analysis |
+| NLP with Spark | [Notebook](./CodeTemplate/NLP/nlp_with_spark.ipynb) | Spam detection |
+| Sentence Transformers | [Notebook](./CodeTemplate/NLP/nlp_with_sentence_transformers.ipynb) | Clustering · Semantic search |
 
 #### Deep Learning
 
-- [Artificial Neural Networks (ANN)](./CodeTemplate/DeepLearning/artificial_neural_network.ipynb)
-  — Regression and Classification, e.g. Customer Churn prediction
-- [Convolutional Neural Networks (CNN)](./CodeTemplate/DeepLearning/convolutional_neural_network.ipynb)
-  — Computer vision
-- [Recurrent Neural Networks (RNN)](./CodeTemplate/DeepLearning/rnn.ipynb)
-  — Time series analysis
+| Architecture | Notebook | Examples / Focus |
+|---|---|---|
+| Artificial Neural Networks (ANN) | [Notebook](./CodeTemplate/DeepLearning/artificial_neural_network.ipynb) | Regression · Classification · Customer churn |
+| Convolutional Neural Networks (CNN) | [Notebook](./CodeTemplate/DeepLearning/convolutional_neural_network.ipynb) | Computer vision |
+| Recurrent Neural Networks (RNN) | [Notebook](./CodeTemplate/DeepLearning/rnn.ipynb) | Time series analysis |
 
-### Python Utilities, SQL & DAX
+### Data Engineering, Python Utilities & Query Languages
 
-- [PySpark](./CodeTemplate/OtherUtils/pyspark.ipynb)
-- [Lakehouse Medallion Architecture](./CodeTemplate/OtherUtils/medallion_architecture_implementation.ipynb)
-- [Faker · Random Data Generation](./CodeTemplate/OtherUtils/faker_eandom_data_generation.ipynb)
-- [PyPDF · Working with PDF Files](./CodeTemplate/OtherUtils/PyPDF.ipynb)
-- [nbformat · Merging Notebooks](./CodeTemplate/OtherUtils/merge_notebooks.ipynb)
-- [MySQL Syntax Reference](./CodeTemplate/OtherUtils/MySQL.pdf)
-- [DAX Functions Reference](./CodeTemplate/OtherUtils/DAXFunctions.pdf)
+| Area | Template / Reference | Focus |
+|---|---|---|
+| Distributed Data Processing | [PySpark](./CodeTemplate/OtherUtils/pyspark.ipynb) | Spark with Python |
+| Data Architecture | [Lakehouse Medallion Architecture](./CodeTemplate/OtherUtils/medallion_architecture_implementation.ipynb) | Implementation example |
+| Test Data | [Faker](./CodeTemplate/OtherUtils/faker_eandom_data_generation.ipynb) | Random data generation |
+| PDF Processing | [PyPDF](./CodeTemplate/OtherUtils/PyPDF.ipynb) | Working with PDF files |
+| Notebook Utilities | [nbformat](./CodeTemplate/OtherUtils/merge_notebooks.ipynb) | Merging notebooks |
+| SQL | [MySQL Syntax Reference](./CodeTemplate/OtherUtils/MySQL.pdf) | PDF reference |
+| DAX | [DAX Functions Reference](./CodeTemplate/OtherUtils/DAXFunctions.pdf) | PDF reference |
 
 ## Resources & References
 
-### Data Processing & Data Platforms
+### Data Engineering & Platforms
 
-- [Spark SQL · PySpark API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
-- [Databricks Free Edition](https://signup.databricks.com/?dbx_source=docs)
-- [Amazon SageMaker AI](https://aws.amazon.com/sagemaker/ai)
-- [dbt Labs](https://docs.getdbt.com/reference/references-overview?version=2)
-- [dbt Packages](https://hub.getdbt.com/)
-- [Microsoft Fabric SQL Wiki](https://github.com/malvik01/Fabric-Data-Warehousing-SQL-Code/wiki)
+| Resource | Link |
+|---|---|
+| Spark SQL / PySpark | [API Reference](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html) |
+| Databricks | [Free Edition](https://signup.databricks.com/?dbx_source=docs) |
+| Amazon SageMaker AI | [Platform](https://aws.amazon.com/sagemaker/ai) |
+| dbt | [Reference Documentation](https://docs.getdbt.com/reference/references-overview?version=2) · [Package Hub](https://hub.getdbt.com/) |
+| Microsoft Fabric | [Data Warehousing SQL Wiki](https://github.com/malvik01/Fabric-Data-Warehousing-SQL-Code/wiki) |
 
 ### Machine Learning & Deep Learning
 
-- [scikit-learn · User Guide](https://scikit-learn.org/stable/user_guide.html)
-- [TensorFlow · Python API Reference](https://www.tensorflow.org/api_docs/python/tf)
-- [TensorFlow Playground](https://playground.tensorflow.org/)
-- [Apache Spark · Classification & Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html)
-- [Keras · Code Examples](https://keras.io/examples/)
+| Resource | Link |
+|---|---|
+| scikit-learn | [User Guide](https://scikit-learn.org/stable/user_guide.html) |
+| TensorFlow | [Python API Reference](https://www.tensorflow.org/api_docs/python/tf) · [Playground](https://playground.tensorflow.org/) |
+| Apache Spark ML | [Classification & Regression](https://spark.apache.org/docs/latest/ml-classification-regression.html) |
+| Keras | [Code Examples](https://keras.io/examples/) |
 
-### Generative AI / Transformer / LLM
+### Generative AI, Transformers & LLMs
 
-- [Hugging Face](https://huggingface.co/)
-- [LangChain](https://www.langchain.com/)
-- [TRANSFORMER EXPLAINER](https://poloclub.github.io/transformer-explainer/)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [LangChain Prompt Template](https://smith.langchain.com/hub/)
+| Resource | Link |
+|---|---|
+| Hugging Face | [Platform](https://huggingface.co/) |
+| LangChain | [Framework](https://www.langchain.com/) · [LangSmith Prompt Hub](https://smith.langchain.com/hub/) |
+| Transformer Explainer | [Interactive Explanation](https://poloclub.github.io/transformer-explainer/) |
+| Prompt Engineering Guide | [Guide](https://www.promptingguide.ai/) |
 
-### Python Automation
+### Python Automation & Open Datasets
 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+| Category | Resource |
+|---|---|
+| Python Automation | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) |
+| Open Datasets | [UCI Machine Learning Repository](https://archive.ics.uci.edu/) · [Kaggle](https://www.kaggle.com/) |
 
-### Open Datasets
+### Visualization, Color & Apps
 
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/)
-- [Kaggle](https://www.kaggle.com/)
-
-### Visualization & Apps
-
-- [Adobe Color · Extract a Palette from an Image](https://color.adobe.com/create/image)
-- [Japanese Color Atlas](https://japanesecoloratlas.com/en/palettes)
-- [Nippon Colors](https://nipponcolors.com/)
-- [D3 · Visualization Gallery](https://observablehq.com/@d3/gallery)
-- [Streamlit](https://streamlit.io/)
+| Category | Resources |
+|---|---|
+| Color Palettes | [Adobe Color — Extract from an Image](https://color.adobe.com/create/image) · [Japanese Color Atlas](https://japanesecoloratlas.com/en/palettes) · [Nippon Colors](https://nipponcolors.com/) |
+| Data Visualization | [D3 Visualization Gallery](https://observablehq.com/@d3/gallery) |
+| Data Apps | [Streamlit](https://streamlit.io/) |
 
 ### Books
 
-- [An Introduction to Statistical Learning](https://www.statlearning.com/)
-  — Gareth James and co-authors
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-  — Aurélien Géron
+| Book | Author(s) |
+|---|---|
+| [An Introduction to Statistical Learning](https://www.statlearning.com/) | Gareth James and co-authors |
+| [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | Aurélien Géron |
