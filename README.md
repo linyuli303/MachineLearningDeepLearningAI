@@ -3,7 +3,7 @@ A collection of projects, learning notes, and experiments from a data enthusiast
 | Category | Projects & Resources |
 |---|---|
 | **How I Use AI for Data Work** | [Auditing My Python Pipeline](https://github.com/linyuli303/DataEngineeringAuditLog/tree/main) · [Column Lineage Explorer](https://github.com/linyuli303/ColumnLineageExplorer) |
-| **How I Use AI in Everyday Life** | [MyTube — Your channels, your feed](https://github.com/linyuli303/MyTube) |
+| **How I Use AI in Everyday Life** | [MyApps — All your favourites, one place](https://github.com/linyuli303/Apps) |
 | **Databricks Projects** | [NYC Taxi Data](https://github.com/linyuli303/DatabricksDemoWithNYCTaxiData/tree/main) · [dbt on Databricks](https://github.com/linyuli303/dbt_core_databricks_demo) |
 | **Continuous Learning** | [Certificates of Completion — Udemy & Coursera](https://linyuli303.github.io/certifications/) |
 | **Learning Notes** | [Machine Learning · Deep Learning](https://linyuli303.github.io/MachineLearningDeepLearningAI/yuli_learning_notes_cherry_blossom_theme.html) |
